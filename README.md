@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I always loved tearing down abstraction layers to explore how computer systems work under the hood. My journey started in high school with high-level Python and JavaScript scripting, which quickly evolved into a fascination with low-level computing. Learning Intel assembly at the beginning of my degree made me realize that I thrive at the hardware-software interface.
+
+Since then, I have been designing and understanding systems at a fundamental level through various personal projects. 
+
+Always eager to bridge the gap between hardware execution and software logic, I constantly take on challenges in systems programming, embedded architecture, cybersecurity, and machine learning.
+
 <!--
 **loicguezo/loicguezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
