@@ -1,4 +1,6 @@
-## Hi there 👋
+## Loïc Guezo ([@loicguezo](https://github.com/loicguezo))
+
+### Computer Science & Electronics Student
 
 I always loved tearing down abstraction layers to explore how computer systems work under the hood. My journey started in high school with high-level Python and JavaScript scripting, which quickly evolved into a fascination with low-level computing. Learning Intel assembly at the beginning of my degree made me realize that I thrive at the hardware-software interface.
 
@@ -6,17 +8,11 @@ Since then, I have been designing and understanding systems at a fundamental lev
 
 Always eager to bridge the gap between hardware execution and software logic, I constantly take on challenges in systems programming, embedded architecture, cybersecurity, and machine learning.
 
-<!--
-**loicguezo/loicguezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Networks & Contacts
+* [**Portfolio**](https://loic.guezo.net)
+* [**LinkedIn**](https://www.linkedin.com/in/loicguezo)
+* [**LeetCode**](https://leetcode.com/loicguezo)
+* [**Hugging Face**](https://huggingface.co/loicguezo)
+* [**Email**](mailto:contact@guezo.net)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to any project or collaboration. Feel free to contact me!
