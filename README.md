@@ -11,6 +11,7 @@ Always eager to bridge the gap between hardware execution and software logic, I 
 ### Networks & Contacts
 * [**Portfolio**](https://loic.guezo.net)
 * [**LinkedIn**](https://www.linkedin.com/in/loicguezo)
+* [**Mastodon**](https://mastodon.social/@loicguezo)
 * [**LeetCode**](https://leetcode.com/loicguezo)
 * [**Hugging Face**](https://huggingface.co/loicguezo)
 * [**Email**](mailto:contact@guezo.net)
