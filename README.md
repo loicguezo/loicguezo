@@ -1,6 +1,6 @@
 ## Loïc Guezo ([@loicguezo](https://github.com/loicguezo))
 
-### Computer Science & Electronics Student
+### Computer Science Student
 
 I always loved tearing down abstraction layers to explore how computer systems work under the hood. My journey started in high school with high-level Python and JavaScript scripting, which quickly evolved into a fascination with low-level computing. Learning Intel assembly at the beginning of my degree made me realize that I thrive at the hardware-software interface.
 
